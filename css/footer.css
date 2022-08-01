@@ -23,7 +23,7 @@ footer .inner .left h1 {
 }
 footer .inner .left h1 a {
   display: block;
-  background-image:url(../99.img/f_logo.png);
+  background-image:url(./img/f_logo.png);
   background-repeat:  no-repeat;
   font-size: 0;
   width: 113px;
@@ -76,28 +76,28 @@ footer .inner .right div.bottom ul.sns li a {
 
 }
 footer .inner .right div.bottom ul.sns li:nth-child(1) a{
-  background-image: url(../99.img/logo-instagram.svg);
+  background-image: url(./img/logo-instagram.svg);
   
 
 
 }
 footer .inner .right div.bottom ul.sns li:nth-child(1) a:hover{
-  background-image: url(../99.img/logo-instagram-hover.svg);
+  background-image: url(./img/logo-instagram-hover.svg);
 }
 
 footer .inner .right div.bottom ul.sns li:nth-child(2) a{
-    background-image: url(../99.img/logo-youtube.svg);
+    background-image: url(./img/logo-youtube.svg);
  
 }
 footer .inner .right div.bottom ul.sns li:nth-child(2) a:hover{
-  background-image: url(../99.img/logo-youtube-hover.svg);
+  background-image: url(./img/logo-youtube-hover.svg);
 }
 footer .inner .right div.bottom ul.sns li:nth-child(3) a{
-  background-image: url(../99.img/logo-twitter.svg);
+  background-image: url(./img/logo-twitter.svg);
 
 }
 footer .inner .right div.bottom ul.sns li:nth-child(3) a:hover{
-  background-image: url(../99.img/logo-twitter-hover.svg);
+  background-image: url(./img/logo-twitter-hover.svg);
 }
 footer .inner .right div.bottom > a {
  
@@ -108,7 +108,7 @@ footer .inner .right div.bottom > a:hover{
 
 footer .inner .right div.bottom > a::before{
   content:"";
-  background-image: url(../99.img/flag_store.png);
+  background-image: url(./img/flag_store.png);
   background-repeat: no-repeat;
   display: inline-block;
   width: 70px;
@@ -120,7 +120,7 @@ footer .inner .right div.bottom > a::before{
 
 footer .inner .right div.bottom > a::after{
   content: "";
-  background-image:url(../99.img/select_btn01.png);
+  background-image:url(./img/select_btn01.png);
   background-position: 15px 15px;
   background-repeat: no-repeat; 
   transform: rotate(-90deg) translateX(20px);
