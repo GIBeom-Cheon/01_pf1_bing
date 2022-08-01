@@ -1,6 +1,6 @@
 #title {
   height: 100%;
-  background-image: url(./img/section01_bg.png);
+  background-image: url(/img/section01_bg.png);
   background-size: cover;
   /* background-position: center;
   background-repeat: no-repeat; */
@@ -14,7 +14,7 @@
 
 #title::before{
   content:"";
-  background-image: url(./img/sec01_logo.png);
+  background-image: url(/img/sec01_logo.png);
   background-size: cover;
   width: 1508px;
   height:388px;
@@ -87,7 +87,7 @@
 
 
 #title form.search input {
-  background: url(./img/search_icon.png) no-repeat center left;
+  background: url(/img/search_icon.png) no-repeat center left;
   text-align: left;
   width: 78%; 
   /*   height: 100%; */

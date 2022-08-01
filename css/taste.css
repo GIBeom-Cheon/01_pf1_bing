@@ -54,28 +54,28 @@
 
 
 #taste .inner ul.list li:nth-child(1)::before{
-    background-image: url(./img/sec02_img01.png);
+    background-image: url(/img/sec02_img01.png);
     background-color: #efe4db;
 
 }
 #taste .inner ul.list li:nth-child(2)::before{
-    background-image: url(./img/sec02_img02.png);
+    background-image: url(/img/sec02_img02.png);
     background-color: #f6efe0;
 }
 #taste .inner ul.list li:nth-child(3)::before{
-    background-image: url(./img/sec02_img03.png);
+    background-image: url(/img/sec02_img03.png);
     background-color: #f9e5e5;
 }
 #taste .inner ul.list li:nth-child(4)::before{
-    background-image: url(./img/sec02_img04.png);
+    background-image: url(/img/sec02_img04.png);
     background-color: #ededed;
 }
 #taste .inner ul.list li:nth-child(5)::before{
-    background-image: url(./img/sec02_img05.png);
+    background-image: url(/img/sec02_img05.png);
     background-color: #e4f3f9;
 }
 #taste .inner ul.list li:nth-child(6)::before{
-    background-image: url(./img/sec02_img06.png);
+    background-image: url(/img/sec02_img06.png);
     background-color: #fcf4e5;
 }
 #taste .inner ul.list li a {
