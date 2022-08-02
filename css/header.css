@@ -47,7 +47,7 @@ header .inner h1{
   transform:rotatate(90deg);
 }
 header .inner h1 a{
-  background-image: url(/img/logo-pc.png);
+  background-image: url(../img/logo-pc.png);
   width: 142px;
   height: 35px;
   display:block;
@@ -315,7 +315,7 @@ header .inner ul.tnb li a::after{
   
   width:17px;
   height: 17px;
-  background-image: url(/img/open_in_new_FILL0_wght400_GRAD0_opsz48.svg);
+  background-image: url(../img/open_in_new_FILL0_wght400_GRAD0_opsz48.svg);
   background-size: contain;
   background-size: cover;
   vertical-align: -4px;
